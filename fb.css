@@ -1,0 +1,84 @@
+h1{
+    margin-left: 100px;
+    margin-top: 180px;
+    font-size: 60px;
+    color: blue;
+     }
+
+body{
+    background-color: #ebedf0;
+    color: black;
+    
+}
+.helps{
+    margin-left: 100px;
+    margin-top: px;
+}
+.with{
+    margin-left: 100px;
+    margin-top: px;
+}
+
+.form{
+    margin-left: 800px;
+    
+}
+.email{
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 40px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+.pass{
+    border-radius: 5px;
+    height: 40px;
+    width: 300px;
+    margin-bottom: 20px;
+    
+}
+.login{
+
+    width: 300px;
+}
+.forgot{
+    margin-top: 20px;
+    margin-left: 29px;
+}
+.create{
+    margin-left: 30px;
+    
+}
+.card{
+    margin-top:-185px ;
+    border-radius: 18px;
+}
+hr{
+    margin-top: 20px;
+}
+.page{
+    margin-left: 820px;
+    color: black;
+    text-decoration: none;
+}
+.abc{
+    margin-left: 910px;
+    margin-top: -24px;
+}
+footer{
+    margin-top: 250px;
+    background-color: white;
+    
+}
+.hindi{
+    color: black;
+    text-decoration: none;
+}
+.sign{
+color: black;
+text-decoration: none;
+}
+.info{
+    color: black;
+    text-decoration: none;
+}
